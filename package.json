@@ -1,0 +1,30 @@
+{
+  "name": "nexus-backend",
+  "version": "1.0.0",
+  "description": "The Nexus Backbone",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NexusFNBR/backend.git"
+  },
+  "author": "slushy",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/NexusFNBR/backend/issues"
+  },
+  "homepage": "https://github.com/NexusFNBR/backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "mongoose": "^6.1.2",
+    "path": "^0.12.7",
+    "timers": "^0.1.1",
+    "xml-parser": "^1.2.1",
+    "xmlbuilder": "^15.1.1"
+  }
+}
