@@ -1,2 +1,2 @@
-# backend
-comimg soon <3 
+# Nexus Backend
+Currently: Not Finished
